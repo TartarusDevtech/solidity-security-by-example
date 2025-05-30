@@ -1,4 +1,4 @@
-# Solidity Security By Example
+# Solidity Security Solutions
 
 **Smart contract security** is one of the biggest impediments to the mass adoption of blockchain technology. This repository provides a series of practical examples focusing on Solidity smart contract security to educate and improve public knowledge in this crucial domain.
 
